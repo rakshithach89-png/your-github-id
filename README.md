@@ -12,7 +12,7 @@ INSTRUCTIONS:
 
 <!-- Header -->
 <h1 align="center">
-  Hi there! 👋 I'm <!-- TODO: Your first name here --> Gauresh
+  Hi there! 👋 I'm <!-- TODO: Your first name here --> rakshitha
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
@@ -23,7 +23,7 @@ TODO:
   Docs: https://komarev.com/ghpvc/
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaureshpai&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=rakshithach89-png&style=flat-square&color=blue" alt="Profile views">
 </p>
 
 <!--
@@ -32,13 +32,13 @@ TODO:
 - If you don't have one, just remove that badge
 -->
 <p align="center">
-  <a href="https://linkedin.com/in/gaureshpai"><!-- TODO: Your LinkedIn URL -->
+  <a href="https://linkedin.com/in/rakshitha"><!-- TODO: Your LinkedIn URL -->
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/hseruag"><!-- TODO: Your Twitter/X URL (or remove) -->
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://gauresh.vercel.app"><!-- TODO: Your portfolio URL (or GitHub profile link) -->
+  <a href="https://grakshitha.vercel.app"><!-- TODO: Your portfolio URL (or GitHub profile link) -->
     <img src="https://img.shields.io/badge/-Portfolio-E34F26?style=flat-square" alt="Portfolio">
   </a>
 </p>
@@ -67,8 +67,8 @@ TODO: Write 3–4 short points about yourself.
   - Replace `gaureshpai` with YOUR Holopin username.
   - Or delete this block if you don't use Holopin.
   -->
-  <a href="https://holopin.io/@gaureshpai">
-    <img src="https://holopin.me/gaureshpai" alt="Holopin badges">
+  <a href="https://holopin.io/@rakshitha">
+    <img src="https://holopin.me/rakshitha" alt="Holopin badges">
   </a>
 
   <br><br>
@@ -78,7 +78,7 @@ TODO: Write 3–4 short points about yourself.
   - Change `username=gaureshpai` to YOUR GitHub username
   -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaureshpai&theme=radical" alt="GitHub Summary Card">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshitha&theme=radical" alt="GitHub Summary Card">
   </a>
 
 </div>
@@ -93,8 +93,8 @@ TODO: Write 3–4 short points about yourself.
   TODO:
   - Change `username=gaureshpai` to YOUR GitHub username in both images
   -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaureshpai&theme=default" alt="Top Languages by repo">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaureshpai&theme=default" alt="Top Languages by commit">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakshitha&theme=default" alt="Top Languages by repo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakshitha&theme=default" alt="Top Languages by commit">
 
   <br><br>
 
@@ -103,8 +103,8 @@ TODO: Write 3–4 short points about yourself.
   - Change `username=gaureshpai` to YOUR GitHub username
   - You can change theme and show_icons at: https://github.com/anuraghazra/github-readme-stats
   -->
-  <a href="https://github.com/gaureshpai">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaureshpai&show_icons=true&theme=tokyonight" alt="GitHub stats">
+  <a href="https://github.com/rakshitha">
+    <img src="https://github-readme-stats.vercel.app/api?username=rakshitha&show_icons=true&theme=tokyonight" alt="GitHub stats">
   </a>
 
 </div>
